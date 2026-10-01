@@ -1,0 +1,30 @@
+{
+  "source": "data/raw/sherlock_holmes_ch1_a_scandal_in_bohemia.txt",
+  "settings": {
+    "max_words": 200,
+    "overlap_words": 40
+  },
+  "input": {
+    "raw_chars": 65862,
+    "raw_words": 11663,
+    "gutenberg_header_found": true,
+    "gutenberg_footer_found": true,
+    "boilerplate_chars_removed": 19371
+  },
+  "cleaned": {
+    "chars": 46388,
+    "words": 8533,
+    "paragraphs": 258,
+    "sentences": 657
+  },
+  "chunks": {
+    "count": 55,
+    "min_words": 73,
+    "max_words": 200,
+    "mean_words": 187.7,
+    "median_words": 192,
+    "oversized": 0,
+    "mean_overlap_words": 33.2,
+    "boundaries_without_overlap": 0
+  }
+}
