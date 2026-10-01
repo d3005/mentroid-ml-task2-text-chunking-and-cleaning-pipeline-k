@@ -2,7 +2,7 @@
 
 **Mentroid ML Team: Practical Task 2**
 
-**Author:** K Daniel Joseph · dannyjoseph3007@gmail.com · [github.com/d3005](https://github.com/d3005)
+
 
 A dependency-free Python pipeline that takes a messy Project Gutenberg book chapter and produces clean text plus **overlapping chunks of at most 200 words that never cut a sentence in half**. Chunks of this kind are what retrieval-augmented generation (RAG) and embedding pipelines need.
 
